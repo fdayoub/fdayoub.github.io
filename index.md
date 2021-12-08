@@ -91,20 +91,16 @@ I am a Senior Lecturer and a Chief Investigator with QUT Centre for Robotics (QC
 ### Current supervisions
 1. Reliable Deployment of Object Detector on Mobile Robots \
 PhD, Principal Supervisor \
-Other supervisors: [Distinguished Professor Peter Corke](https://www.qut.edu.au/about/our-people/academic-profiles/corkep), [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
-2. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
-PhD, Associate Supervisor \
-Other supervisors: [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
-3. Autonomous Vehicles Localization without Detailed Prior Maps \
+2. Out-of-Distribution Detection for Deep Semantic Segmentation \
 PhD, Principal Supervisor \
-Other supervisors: [Professor Michael Milford](https://www.qut.edu.au/about/our-people/academic-profiles/milfordm)
-4. Learning From Limited Annotated Data for Re-Identification Problem \
+3. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
 PhD, Associate Supervisor \
-Other supervisors: [Dr Frederic Maire](https://www.qut.edu.au/about/our-people/academic-profiles/maire), [Dr Mahsa Baktashmotlagh](https://www.qut.edu.au/about/our-people/academic-profiles/baktashm)
-5. Solving Manipulation Tasks With Implicit Neural Representations \
+4. Autonomous Vehicles Localization without Detailed Prior Maps \
+PhD, Principal Supervisor \
+5. Learning From Limited Annotated Data for Re-Identification Problem \
 PhD, Associate Supervisor \
-Other supervisors: [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
-
+6. Solving Manipulation Tasks With Implicit Neural Representations \
+PhD, Associate Supervisor \
 
 ### Completed supervisions (Doctorate)
 1. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
