@@ -89,38 +89,27 @@ I am a Senior Lecturer and a Chief Investigator with QUT Centre for Robotics (QC
 # PhD Supervision
 
 ### Current supervisions
-1. Solving Manipulation Tasks With Implicit Neural Representations \
+1. Reliable Deployment of Object Detector on Mobile Robots \
+PhD, Principal Supervisor \
+Other supervisors: [Distinguished Professor Peter Corke](https://www.qut.edu.au/about/our-people/academic-profiles/corkep), [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
+2. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
 PhD, Associate Supervisor \
-Other supervisors: [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha), [Mr Michael Milford](https://www.qut.edu.au/about/our-people/academic-profiles/milford)
-2. Control Strategies for Reactive Mobile Manipulation \
-PhD, Associate Supervisor \
-Other supervisors: [Distinguished Professor Peter Corke](https://www.qut.edu.au/about/our-people/academic-profiles/corkep), [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha), [Dr Juxi Leitner](https://www.qut.edu.au/about/our-people/academic-profiles/leitnerj)
-3. Epistemic Uncertainty Estimation for Object Detection in Open-Set Conditions \
+Other supervisors: [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
+3. Autonomous Vehicles Localization without Detailed Prior Maps \
 PhD, Principal Supervisor \
 Other supervisors: [Professor Michael Milford](https://www.qut.edu.au/about/our-people/academic-profiles/milfordm)
 4. Learning From Limited Annotated Data for Re-Identification Problem \
 PhD, Associate Supervisor \
 Other supervisors: [Dr Frederic Maire](https://www.qut.edu.au/about/our-people/academic-profiles/maire), [Dr Mahsa Baktashmotlagh](https://www.qut.edu.au/about/our-people/academic-profiles/baktashm)
-5. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
+5. Solving Manipulation Tasks With Implicit Neural Representations \
 PhD, Associate Supervisor \
 Other supervisors: [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
-6. Reliable Deployment of Object Detector on Mobile Robots \
-PhD, Principal Supervisor \
-Other supervisors: [Distinguished Professor Peter Corke](https://www.qut.edu.au/about/our-people/academic-profiles/corkep), [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
-7. Uncertainty from Deep Ensembles for Computer Vision \
-PhD, Principal Supervisor \
-Other supervisors: [Associate Professor Niko Suenderhauf](https://www.qut.edu.au/about/our-people/academic-profiles/sunderha)
-8. Autonomous Vehicles Localization without Detailed Prior Maps \
-PhD, Principal Supervisor \
-Other supervisors: [Professor Michael Milford](https://www.qut.edu.au/about/our-people/academic-profiles/milfordm)
 
 
 ### Completed supervisions (Doctorate)
-
-
-
 1. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
 2. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
+3. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
 
 * * * 
 
