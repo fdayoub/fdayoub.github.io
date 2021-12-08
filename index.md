@@ -117,7 +117,7 @@ Other supervisors: [Associate Professor Niko Suenderhauf](https://www.qut.edu.au
 # Publications
 
 |***[Full and up-to-date list found here](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)***|
-|:---------------------------------------|
+
 
 [Deepfruits: A fruit detection system using deep neural networks](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=Lzs8CuEAAAAJ&citation_for_view=Lzs8CuEAAAAJ:738O_yMBCRsC)
 I Sa, Z Ge, F Dayoub, B Upcroft, T Perez, C McCool
