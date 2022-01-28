@@ -63,29 +63,6 @@ Currently, I am a Senior Lecturer with the School of Computer Science and the Au
 
 * * *
 
-# Teaching
-
-### Adelaide Uni
-
-### QUT
-* 2021: 
-    * EGB439 - Advanced Robotics - Unit Coordinator/Lecturer. 
-    * CAB202 - Microprocessors and Digital Systems - Unit Coordinator/Lecturer. 
-* 2020: 
-    * EGB439 - Advanced Robotics -Unit Coordinator/Lecturer. 
-    * EGB419 - Mechatronics Design 3 - Lecturer. 
-    * CAB202 - Microprocessors and Digital Systems - Lecturer. 
-* 2019:  
-    * EGB439 - Advanced Robotics - Lecturer. 
-    * EGB419 - Mechatronics Design 3 - Lecturer. 
-* 2018: 
-    * EGB439 - Advanced Robotics - Lecturer. 
-* 2017: 
-    * EGB439 - Advanced Robotics - Lecturer.
-* 2016: 
-    * CAB202 - Microprocessors and Digital Systems - Lecturer.
-
-
 # PhD Supervision
 
 ### Current supervisions
@@ -108,7 +85,28 @@ PhD, Associate Supervisor \
 3. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
 
 * * * 
+# Teaching
 
+### Adelaide Uni
+
+### QUT
+* 2021: 
+    * EGB439 - Advanced Robotics - Unit Coordinator/Lecturer. 
+    * CAB202 - Microprocessors and Digital Systems - Unit Coordinator/Lecturer. 
+* 2020: 
+    * EGB439 - Advanced Robotics -Unit Coordinator/Lecturer. 
+    * EGB419 - Mechatronics Design 3 - Lecturer. 
+    * CAB202 - Microprocessors and Digital Systems - Lecturer. 
+* 2019:  
+    * EGB439 - Advanced Robotics - Lecturer. 
+    * EGB419 - Mechatronics Design 3 - Lecturer. 
+* 2018: 
+    * EGB439 - Advanced Robotics - Lecturer. 
+* 2017: 
+    * EGB439 - Advanced Robotics - Lecturer.
+* 2016: 
+    * CAB202 - Microprocessors and Digital Systems - Lecturer.
+* * * 
 
 # Publications
 
