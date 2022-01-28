@@ -67,22 +67,21 @@ Currently, I am a Senior Lecturer with the School of Computer Science and the Au
 
 ### Current supervisions
 1. Reliable Deployment of Object Detector on Mobile Robots \
-PhD, Principal Supervisor \
+PhD, Principal Supervisor 
 2. Out-of-Distribution Detection for Deep Semantic Segmentation \
-PhD, Principal Supervisor \
+PhD, Principal Supervisor 
 3. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
-PhD, Associate Supervisor \
+PhD, Associate Supervisor 
 4. Autonomous Vehicles Localization without Detailed Prior Maps \
-PhD, Principal Supervisor \
-5. Learning From Limited Annotated Data for Re-Identification Problem \
-PhD, Associate Supervisor \
+PhD, Principal Supervisor 
 6. Solving Manipulation Tasks With Implicit Neural Representations \
-PhD, Associate Supervisor \
+PhD, Associate Supervisor 
 
 ### Completed supervisions (Doctorate)
 1. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
 2. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
 3. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
+4. [Learning From Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/) (2021)
 
 * * * 
 # Teaching
