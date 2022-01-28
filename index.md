@@ -17,15 +17,15 @@ Currently, I am a Senior Lecturer with the School of Computer Science and the Au
 # Academic Career
 * 2022: 
 	* Senior Lecturer, Australian Institute for Artificial Intelligence, University of Adelaide.
-* 2019-present Senior Lecturer - School of Electrical Engineering and Robotics, QUT.  
-    * I am a CI on the following projects:  
+* 2019-2022 Senior Lecturer - School of Electrical Engineering and Robotics, QUT.  
+    * CI on the following projects:  
         * Novel autonomous robotic weed control (CRC-P project)
         * Robotic Crop Management for Vertical Farming Systems (QUT CAB)
         * Robotic Systems for Real-Time Asset Management, ARC Research Hub in Intelligent (ITRH)
-    * I coordinate and teach the following units:  
+    * I coordinated and taught the following units:  
         * Advanced Robotics, Unit code: EGB439. 3rd and 4th year.
         * Microprocessors and Digital Systems, Unit code CAB202, 1st and 2nd year.
-* 2020-present Chief Investigator - QUT Centre for Robotics (QCR).  
+* 2020-2022 Chief Investigator - QUT Centre for Robotics (QCR).  
     * My roles in QCR:  
         * Co-Lead - Visual learning and understanding program
         * Portfolio Lead - Early to Mid-career cohort
@@ -35,7 +35,7 @@ Currently, I am a Senior Lecturer with the School of Computer Science and the Au
         * Deputy program leader - Robot Learning Program (ACRV research program).
     * 2018 Associate Investigator
     * 2016   Research Fellow
-* 2019-present Associate Investigator - QUT Centre for Data Science. 
+* 2019-2022 Associate Investigator - QUT Centre for Data Science. 
 * 2012-2016 Postdoctoral Research Fellow - Science and Engineering Faculty, QUT.  
     * During my role as a research fellow in QUT I worked on the following projects: 
         * Autonomous Unsupervised Weed Scouting - Primary project supervisor.
