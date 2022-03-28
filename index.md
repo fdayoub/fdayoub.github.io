@@ -21,7 +21,7 @@ I am a Senior Lecturer with the School of Computer Science and the Australian In
     * CI on the following projects:  
         * Novel autonomous robotic weed control (CRC-P project)
         * Robotic Crop Management for Vertical Farming Systems (QUT CAB)
-        * Robotic Systems for Real-Time Asset Management, ARC Research Hub in Intelligent (ITRH)
+        * Intelligent Robotic Systems for Real-Time Asset Management, ARC Research Hub (ITRH)
     * I coordinated and taught the following units:  
         * Advanced Robotics, Unit code: EGB439. 3rd and 4th year.
         * Microprocessors and Digital Systems, Unit code CAB202, 1st and 2nd year.
