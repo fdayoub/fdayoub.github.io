@@ -17,6 +17,7 @@ I am a Senior Lecturer with the School of Computer Science and the Australian In
 # Academic Career
 * 2022: 
 	* Senior Lecturer, Australian Institute for Artificial Intelligence, University of Adelaide.
+	* Adjunct Senior Lecturer in the Faculty of Engineering, Queensland University of Technology.
 * 2019-2022 Senior Lecturer - School of Electrical Engineering and Robotics, QUT.  
     * CI on the following projects:  
         * Novel autonomous robotic weed control (CRC-P project)
@@ -29,7 +30,7 @@ I am a Senior Lecturer with the School of Computer Science and the Australian In
     * My roles in QCR:  
         * Co-Lead - Visual learning and understanding program
         * Portfolio Lead - Early to Mid-career cohort
-* 2016-2020 The ARC Australian Center for Robotics Vision (ACRV).  
+* 2016-2020 The ARC Australian Center for Robotic Vision (ACRV).  
     * 2019   Chief Investigator 
         * Deputy project leader - Robotics Vision Evaluation and Benchmarking (ACRV project).
         * Deputy program leader - Robot Learning Program (ACRV research program).
