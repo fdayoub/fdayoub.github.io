@@ -72,16 +72,15 @@ PhD, Principal Supervisor
 2. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
 PhD, Associate Supervisor 
 4. Autonomous Vehicles Localization without Detailed Prior Maps \
-PhD, Principal Supervisor 
-6. Solving Manipulation Tasks With Implicit Neural Representations \
-PhD, Associate Supervisor 
+PhD, Principal Supervisor
 
 ### Completed supervisions (Doctorate)
 1. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
 2. [Learning From Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/) (2021)
 3. [Performance monitoring of deep learning vision systems during deployment](https://eprints.qut.edu.au/229733/) (2022)
-4. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
-5. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
+4. [Control Strategies for Reactive Manipulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IIhSLvgAAAAJ&sortby=pubdate&citation_for_view=IIhSLvgAAAAJ:W7OEmFMy1HYC) (2022)
+5. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
+6. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
 
 * * * 
 # Teaching
