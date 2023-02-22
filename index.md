@@ -86,27 +86,17 @@ PhD, Principal Supervisor
 # Teaching
 
 ### The University of Adelaide
-* 2022: 
-    * COMP_SCI_1102 - Object-Oriented Programming - Course Coordinator/Lecturer.
-    * COMP_SCI_7327 - Concepts in Artificial Intelligence & Machine Learning - Course Coordinator/Lecturer.
+* 2022 - present: 
+    * COMP_SCI_1102 - Object-Oriented Programming - Course Coordinator/Lecturer (2022,2023).
+    * COMP_SCI_3317 - Using Machine Learning Tools (2022,2023)
+    * COMP_SCI_7327 - Concepts in Artificial Intelligence & Machine Learning - Course Coordinator/Lecturer (2022).
     
 ### QUT
-* 2021: 
-    * EGB439 - Advanced Robotics - Unit Coordinator/Lecturer. 
-    * CAB202 - Microprocessors and Digital Systems - Unit Coordinator/Lecturer. 
-* 2020: 
-    * EGB439 - Advanced Robotics -Unit Coordinator/Lecturer. 
-    * EGB419 - Mechatronics Design 3 - Lecturer. 
-    * CAB202 - Microprocessors and Digital Systems - Lecturer. 
-* 2019:  
-    * EGB439 - Advanced Robotics - Lecturer. 
-    * EGB419 - Mechatronics Design 3 - Lecturer. 
-* 2018: 
-    * EGB439 - Advanced Robotics - Lecturer. 
-* 2017: 
-    * EGB439 - Advanced Robotics - Lecturer.
-* 2016: 
-    * CAB202 - Microprocessors and Digital Systems - Lecturer.
+* 2016-2021: 
+    * EGB439 - Advanced Robotics - Unit Coordinator/Lecturer (2017-2021). 
+    * CAB202 - Microprocessors and Digital Systems - Unit Coordinator/Lecturer (2016-2021). 
+    * EGB419 - Mechatronics Design 3 - Lecturer (2020).
+
 * * * 
 
 # Publications
