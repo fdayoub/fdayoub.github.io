@@ -106,7 +106,7 @@ This research theme explores techniques to improve object detection algorithms, 
 - [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [Hyperdimensional feature fusion for out-of-distribution detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 
-## Computer Vision and Machine Learning Applications in Precision Agriculture
+## Computer Vision and Machine Learning Applications
 
 This research theme focuses on leveraging computer vision and machine learning techniques to tackle various challenges in precision agriculture.
 
@@ -114,6 +114,7 @@ This research theme focuses on leveraging computer vision and machine learning t
 - [Robot for weed species plant‐specific management](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [Peduncle detection of sweet pepper for autonomous crop harvesting—combined color and 3-D information](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [Visual detection of occluded crop: For automated harvesting](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Robotic detection and tracking of Crown-Of-Thorns starfish](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=Lzs8CuEAAAAJ&citation_for_view=Lzs8CuEAAAAJ:p2g8aNsByqUC)
 
 ## Place Recognition and Semantic Mapping in Robotics
 
@@ -123,6 +124,7 @@ This research theme centres on employing Machine Learning methodologies for enha
 - [Place recognition with ConvNet landmarks: Viewpoint-robust, condition-robust, training-free](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [On the performance of ConvNet features for place recognition](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [Long-term experiments with an adaptive spherical view representation for navigation in changing environments](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Multiple map hypotheses for planning and navigating in non-stationary environments](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=Lzs8CuEAAAAJ&citation_for_view=Lzs8CuEAAAAJ:CHSYGLWDkRkC)
 
 * * *
 # Teaching
