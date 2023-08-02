@@ -83,6 +83,53 @@ PhD, Principal Supervisor
 6. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
 
 * * * 
+
+# My Research Themes
+
+## Autonomous Robots Perception Systems Monitoring and Failure Detection
+
+This theme encompasses research on real-time monitoring and failure detection methods for autonomous robotic perception systems. These studies aim to ensure the robustness, safety, and reliability of autonomous systems, particularly under dynamic and complex environmental conditions.
+
+- [Run-Time Monitoring of Machine Learning for Robotic Perception: A Survey of Emerging Trends](https://ieeexplore.ieee.org/document/9336665)
+- [Online Monitoring of Object Detection Performance During Deployment](https://arxiv.org/abs/2011.07750)
+- [FSNet: A Failure Detection Framework for Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9682519)
+- [Did you miss the sign? A false negative alarm system for traffic sign detectors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968525)
+
+## Uncertainty Handling and Open-Set Recognition in Object Detection
+
+This research theme explores techniques to improve object detection algorithms, particularly in open-set conditions commonly found in robotic vision. 
+
+- [Dropout sampling for robust object detection in open-set conditions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8460700)
+- [Class anchor clustering: A loss for distance-based open set recognition](https://ieeexplore.ieee.org/document/8460700?denied=)
+- [Uncertainty for identifying open-set errors in visual object detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9591346)
+- [Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection](https://ieeexplore.ieee.org/document/10167752)
+
+## Computer Vision and Machine Learning Applications in Precision Agriculture
+
+This research theme focuses on leveraging computer vision and machine learning techniques to tackle various challenges in precision agriculture.
+
+- [Deepfruits: A fruit detection system using deep neural networks](LINK_TO_PAPER)
+- [Robot for weed species plant‐specific management](LINK_TO_PAPER)
+- [Peduncle detection of sweet pepper for autonomous crop harvesting—combined color and 3-D information](LINK_TO_PAPER)
+- [Visual detection of occluded crop: For automated harvesting](LINK_TO_PAPER)
+
+## Place Recognition and Semantic Mapping in Robotics
+
+This research theme centres on employing Machine Learning methodologies for enhancing robotic navigation capabilities.
+
+- [Place categorization and semantic mapping on a mobile robot](LINK_TO_PAPER)
+- [Place recognition with ConvNet landmarks: Viewpoint-robust, condition-robust, training-free](LINK_TO_PAPER)
+- [On the performance of ConvNet features for place recognition](LINK_TO_PAPER)
+- [Long-term experiments with an adaptive spherical view representation for navigation in changing environments](LINK_TO_PAPER)
+
+## Out-of-Distribution Detection in Deep Learning Systems
+
+This research theme focuses on Out-of-Distribution (OOD) detection in deep learning systems.
+
+- [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](LINK_TO_PAPER)
+- [Hyperdimensional feature fusion for out-of-distribution detection](LINK_TO_PAPER)
+
+* * *
 # Teaching
 
 ### The University of Adelaide
