@@ -95,7 +95,7 @@ This theme encompasses research on real-time monitoring and failure detection me
 - [FSNet: A Failure Detection Framework for Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9682519)
 - [Did you miss the sign? A false negative alarm system for traffic sign detectors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968525)
 
-## Uncertainty Handling and Open-Set Recognition in Object Detection
+## Uncertainty Handling, Out-of-Distribution Detection and Open-Set Recognition in Object Detection
 
 This research theme explores techniques to improve object detection algorithms, particularly in open-set conditions commonly found in robotic vision. 
 
@@ -103,6 +103,8 @@ This research theme explores techniques to improve object detection algorithms, 
 - [Class anchor clustering: A loss for distance-based open set recognition](https://ieeexplore.ieee.org/document/8460700?denied=)
 - [Uncertainty for identifying open-set errors in visual object detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9591346)
 - [Predicting Class Distribution Shift for Reliable Domain Adaptive Object Detection](https://ieeexplore.ieee.org/document/10167752)
+- [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Hyperdimensional feature fusion for out-of-distribution detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 
 ## Computer Vision and Machine Learning Applications in Precision Agriculture
 
@@ -121,13 +123,6 @@ This research theme centres on employing Machine Learning methodologies for enha
 - [Place recognition with ConvNet landmarks: Viewpoint-robust, condition-robust, training-free](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [On the performance of ConvNet features for place recognition](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [Long-term experiments with an adaptive spherical view representation for navigation in changing environments](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
-
-## Out-of-Distribution Detection in Deep Learning Systems
-
-This research theme focuses on Out-of-Distribution (OOD) detection in deep learning systems.
-
-- [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
-- [Hyperdimensional feature fusion for out-of-distribution detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 
 * * *
 # Teaching
