@@ -108,7 +108,7 @@ This research theme explores techniques to improve object detection algorithms, 
 
 ## Computer Vision and Machine Learning Applications
 
-This research theme focuses on leveraging computer vision and machine learning techniques to tackle various challenges in precision agriculture.
+This research theme focuses on leveraging computer vision and machine learning techniques to tackle various challenging applications.
 
 - [Deepfruits: A fruit detection system using deep neural networks](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 - [Robot for weed species plant‐specific management](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
