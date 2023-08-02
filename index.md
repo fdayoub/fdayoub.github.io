@@ -108,26 +108,26 @@ This research theme explores techniques to improve object detection algorithms, 
 
 This research theme focuses on leveraging computer vision and machine learning techniques to tackle various challenges in precision agriculture.
 
-- [Deepfruits: A fruit detection system using deep neural networks](LINK_TO_PAPER)
-- [Robot for weed species plant‐specific management](LINK_TO_PAPER)
-- [Peduncle detection of sweet pepper for autonomous crop harvesting—combined color and 3-D information](LINK_TO_PAPER)
-- [Visual detection of occluded crop: For automated harvesting](LINK_TO_PAPER)
+- [Deepfruits: A fruit detection system using deep neural networks](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Robot for weed species plant‐specific management](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Peduncle detection of sweet pepper for autonomous crop harvesting—combined color and 3-D information](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Visual detection of occluded crop: For automated harvesting](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 
 ## Place Recognition and Semantic Mapping in Robotics
 
 This research theme centres on employing Machine Learning methodologies for enhancing robotic navigation capabilities.
 
-- [Place categorization and semantic mapping on a mobile robot](LINK_TO_PAPER)
-- [Place recognition with ConvNet landmarks: Viewpoint-robust, condition-robust, training-free](LINK_TO_PAPER)
-- [On the performance of ConvNet features for place recognition](LINK_TO_PAPER)
-- [Long-term experiments with an adaptive spherical view representation for navigation in changing environments](LINK_TO_PAPER)
+- [Place categorization and semantic mapping on a mobile robot](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Place recognition with ConvNet landmarks: Viewpoint-robust, condition-robust, training-free](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [On the performance of ConvNet features for place recognition](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Long-term experiments with an adaptive spherical view representation for navigation in changing environments](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 
 ## Out-of-Distribution Detection in Deep Learning Systems
 
 This research theme focuses on Out-of-Distribution (OOD) detection in deep learning systems.
 
-- [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](LINK_TO_PAPER)
-- [Hyperdimensional feature fusion for out-of-distribution detection](LINK_TO_PAPER)
+- [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
+- [Hyperdimensional feature fusion for out-of-distribution detection](https://scholar.google.com.au/citations?user=Lzs8CuEAAAAJ&hl=en)
 
 * * *
 # Teaching
