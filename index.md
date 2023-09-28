@@ -15,17 +15,15 @@ I am a Senior Lecturer (equivalent to Associate Professor in the Nth American sy
 
 * * *
 # Academic Career
-* 2022: 
-	* Senior Lecturer, Australian Institute for Artificial Intelligence, University of Adelaide.
-	* Adjunct Senior Lecturer in the Faculty of Engineering, Queensland University of Technology.
+* 2022 - present: 
+	* Senior Lecturer, Australian Institute for Machine Learning (AIML), University of Adelaide.
+        * CI and Project Lead - Centre for Augmented Reasoning (CAR) 
+	* Adjunct Senior Lecturer at the Faculty of Engineering, Queensland University of Technology (QUT).
 * 2019-2022 Senior Lecturer - School of Electrical Engineering and Robotics, QUT.  
     * CI on the following projects:  
         * Novel autonomous robotic weed control (CRC-P project)
         * Robotic Crop Management for Vertical Farming Systems (QUT CAB)
         * Intelligent Robotic Systems for Real-Time Asset Management, ARC Research Hub (ITRH)
-    * I coordinated and taught the following units:  
-        * Advanced Robotics, Unit code: EGB439. 3rd and 4th year.
-        * Microprocessors and Digital Systems, Unit code CAB202, 1st and 2nd year.
 * 2020-2022 Chief Investigator - QUT Centre for Robotics (QCR).  
     * My roles in QCR:  
         * Co-Lead - Visual learning and understanding program
@@ -68,10 +66,16 @@ I am a Senior Lecturer (equivalent to Associate Professor in the Nth American sy
 
 ### Current supervisions
 1. Out-of-Distribution Detection for Deep Semantic Segmentation \
-PhD, Principal Supervisor 
-2. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
+PhD, Principal Supervisor
+2. Semi-supervised object detection for mobile robots \
+PhD, Principal Supervisor
+3. 3D Scene Understanding and Change Tracking \
+PhD, Principal Supervisor
+4. Embodied AI: Navigating and Decoding Complexity  \
+PhD, Principal Supervisor   
+5. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
 PhD, Associate Supervisor 
-4. Autonomous Vehicles Localization without Detailed Prior Maps \
+6. Autonomous Vehicles Localization without Detailed Prior Maps \
 PhD, Principal Supervisor
 
 ### Completed supervisions (Doctorate)
