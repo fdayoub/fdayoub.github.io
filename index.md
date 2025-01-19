@@ -12,14 +12,12 @@ I am a researcher at the intersection of computer vision, machine learning, and 
 
 * * *
 # Academic Career
-* 2025 - present:
-	* Co-Director, CROSSING (French-Australian Laboratory for Human-Autonomous Agents Teaming).
-* 2024 - present:
-	* The AI Theme lead - University of Surrey/University of Adelaide partnership.     
-* 2022 - present: 
-	* Senior Lecturer, Australian Institute for Machine Learning (AIML), University of Adelaide.
-        * CI and Project Lead - Centre for Augmented Reasoning (CAR) 
-	* Adjunct Senior Lecturer at the Faculty of Engineering, Queensland University of Technology (QUT).
+* 2022 - present: Australian Institute for Machine Learning (AIML), University of Adelaide
+    * 2025 - present Co-Director, CROSSING (French-Australian Laboratory for Human-Autonomous Agents Teaming).
+    * 2024 - present The AI Theme lead - University of Surrey/University of Adelaide partnership.     
+    * Senior Lecturer, Australian Institute for Machine Learning (AIML), University of Adelaide.
+    * CI and Project Lead - Centre for Augmented Reasoning (CAR) 
+    * Adjunct Senior Lecturer at the Faculty of Engineering, Queensland University of Technology (QUT).
 * 2019-2022 Senior Lecturer - School of Electrical Engineering and Robotics, QUT.  
     * CI on the following projects:  
         * Novel autonomous robotic weed control (CRC-P project)
