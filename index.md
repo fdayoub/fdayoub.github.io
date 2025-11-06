@@ -8,11 +8,12 @@ layout: default
 # Welcome
 
 <img src="./img/ID.png" align="right" alt="drawing" width="100"/>
-I am a researcher at the intersection of computer vision, machine learning, and robotics, specializing in Embodied AI and Robotic Vision as part of the Australian Institute for Machine Learning (AIML) at the University of Adelaide. I co-direct CROSSING, a French-Australian laboratory focused on human-autonomous agent teaming. In addition to my role at AIML, I hold an Adjunct position at Queensland University of Technology (QUT) and serve as an Associate Investigator with the QUT Centre for Robotics. Previously, I was a Chief Investigator at the ARC Centre of Excellence for Robotic Vision. My research is dedicated to advancing the reliable deployment of computer vision and machine learning on mobile robots in real-world environments. I worked on applied robotic vision projects spanning agricultural innovation, environmental conservation, and autonomous infrastructure monitoring. As an educator, I am passionate about teaching programming, computer vision, machine learning, and robotic perception.
+Welcome to my page. I am an Associate Professor, researcher, and educator in autonomous perception, machine learning, and robotic vision at the Australian Institute for Machine Learning (AIML), Adelaide University. My research focuses on developing trustworthy perception systems for autonomous robots, enabling them to operate safely and reliably in complex, uncertain environments. I lead the Embodied AI and Robotic Vision Group and serve as Co-Director of the French-Australian CROSSING Lab (CNRS IRL), where we advance research in human–autonomous teaming and the development of intelligent, adaptive robotic systems.
 
 * * *
 # Academic Career
-* 2022 - present: Australian Institute for Machine Learning (AIML), University of Adelaide
+* 2026 - present: Associate Professor, Australian Institute for Machine Learning (AIML), Adelaide University
+* 2022 - 2025: Australian Institute for Machine Learning (AIML), University of Adelaide
     * 2025 - present Co-Director, CROSSING (French-Australian Laboratory for Human-Autonomous Agents Teaming).
     * 2024 - present The AI Theme lead - University of Surrey/University of Adelaide partnership.     
     * Senior Lecturer, Australian Institute for Machine Learning (AIML), University of Adelaide.
