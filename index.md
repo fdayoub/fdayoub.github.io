@@ -63,28 +63,15 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 * * *
 
 # PhD Supervision
-
-### Current supervisions
-1. Out-of-Distribution Detection for Deep Semantic Segmentation \
-PhD, Principal Supervisor
-2. Semi-supervised object detection for mobile robots \
-PhD, Principal Supervisor
-3. 3D Scene Understanding and Change Tracking \
-PhD, Principal Supervisor
-4. Embodied AI: Navigating and Decoding Complexity  \
-PhD, Principal Supervisor   
-5. Deep Learning for Robotics in Open-World Conditions: Uncertainty and Continual Active Learning \
-PhD, Associate Supervisor 
-6. Autonomous Vehicles Localization without Detailed Prior Maps \
-PhD, Principal Supervisor
-
 ### Completed supervisions (Doctorate)
-1. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
-2. [Learning From Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/) (2021)
-3. [Performance monitoring of deep learning vision systems during deployment](https://eprints.qut.edu.au/229733/) (2022)
-4. [Control Strategies for Reactive Manipulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IIhSLvgAAAAJ&sortby=pubdate&citation_for_view=IIhSLvgAAAAJ:W7OEmFMy1HYC) (2022)
-5. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
-6. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
+1. [Realtime Structured and Visually Correctable Representations for Robotic Manipulation] (2026)
+2. [Ground-to-Aerial Cross-View Image Matching for Robot Localization](https://eprints.qut.edu.au/261196/) (2025)
+3. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
+4. [Learning From Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/) (2021)
+5. [Performance monitoring of deep learning vision systems during deployment](https://eprints.qut.edu.au/229733/) (2022)
+6. [Control Strategies for Reactive Manipulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IIhSLvgAAAAJ&sortby=pubdate&citation_for_view=IIhSLvgAAAAJ:W7OEmFMy1HYC) (2022)
+7. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
+8. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
 
 * * * 
 
