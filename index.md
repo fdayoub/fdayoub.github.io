@@ -88,7 +88,7 @@ This theme encompasses research on real-time monitoring and failure detection me
 - [FSNet: A Failure Detection Framework for Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9682519)
 - [Did you miss the sign? A false negative alarm system for traffic sign detectors](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968525)
 
-## Uncertainty Handling, Out-of-Distribution Detection and Open-Set Recognition in Object Detection
+## Reliable deep learning for robotics: Uncertainty Handling, Out-of-Distribution Detection and Open-Set Recognition in Object Detection
 
 This research theme explores techniques to improve object detection algorithms, particularly in open-set conditions commonly found in robotic vision. 
 
@@ -121,9 +121,13 @@ This research theme centres on employing Machine Learning methodologies for enha
 
 * * *
 # Teaching
+### Adelaide University
+* 2026 - Present
+   *  Computer Science Honours Research Project - Supervision
+   *  Master Capstone Project - Supervision
 
 ### The University of Adelaide
-* 2022 - present: 
+* 2022 - 2025: 
     * COMP_SCI_1102 - Object-Oriented Programming - Course Coordinator/Lecturer (2022,2023).
     * COMP_SCI_3317 - Using Machine Learning Tools (2022,2023)
     * COMP_SCI_7327 - Concepts in Artificial Intelligence & Machine Learning - Course Coordinator/Lecturer (2022).
