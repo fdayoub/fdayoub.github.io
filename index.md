@@ -8,7 +8,7 @@ layout: default
 # Welcome
 
 <img src="./img/ID.png" align="right" alt="drawing" width="100"/>
-Welcome to my page. I am an Associate Professor, researcher, and educator in autonomous perception, machine learning, and robotic vision at the Australian Institute for Machine Learning (AIML), Adelaide University. My research focuses on developing trustworthy perception systems for autonomous robots, enabling them to operate safely and reliably in complex, uncertain environments. I lead the Embodied AI and Robotic Vision Group and serve as Co-Director of the French-Australian CROSSING Lab (CNRS IRL), where we advance research in human–autonomous teaming and the development of intelligent, adaptive robotic systems.
+Welcome to my page. I am an Associate Professor, researcher, and educator in autonomous perception, machine learning, and robotic vision at the Australian Institute for Machine Learning (AIML), Adelaide University. My research focuses on developing trustworthy perception systems for autonomous robots, enabling them to operate safely and reliably in complex, uncertain environments. I lead the Embodied AI and Robotic Vision Group and serve as deputy director of the [French-Australian CROSSING Lab (CNRS IRL)](https://crossing.cnrs.fr/), where we advance research in human–autonomous teaming and the development of intelligent, adaptive robotic systems.
 
 * * *
 # Academic Career
