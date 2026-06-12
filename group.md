@@ -42,15 +42,6 @@ We develop representations and methods that let robots navigate environments the
 We work on closing the gap between training and deployment, and on bringing large pretrained models into embodied settings. This includes source-free and online domain adaptation for object detection, predicting and handling class-distribution shift, foundation models for goal-oriented reinforcement learning and exploration, generalist robot manipulation policies and effective strategies for tuning them, and 3D large multimodal models for scene understanding, moving toward vision–language–action systems.
 
 * * *
-# Publications
-
-## Recent Publications
-
-.
-
-Full Publication List [Google Scholar link.]
-
-* * *
 # People
 
 .
