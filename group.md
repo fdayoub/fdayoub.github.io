@@ -23,6 +23,15 @@ Key interests include:
 * **Long-term autonomy**: building systems that remain reliable as environments, tasks, and sensing conditions change over time.
 * **Human-autonomous teaming**: developing intelligent systems that collaborate effectively with people in shared environments.
 
+
+* * *
+# Latest News
+
+Use this section to share recent updates from the group, including new publications, student milestones, project announcements, awards, media coverage, and open opportunities.
+
+* **June 2026**: Research group page launched.
+* **Add news here**: Replace this placeholder with the newest group update.
+
 * * *
 # Projects and Collaborations
 
