@@ -70,22 +70,6 @@ We work on closing the gap between training and deployment, and on bringing larg
 .
 
 * * *
-# Publications
-
-## Recent Publications
-
-.
-
-## Full Publication List
-
-[Google Scholar link.]
-
-* * *
-# Datasets, Code, Benchmarks, and Software
-
-.
-
-* * *
 # Join Us
 
 ## Prospective PhD Students
