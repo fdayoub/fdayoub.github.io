@@ -12,9 +12,9 @@ permalink: /group/
 
 The Embodied AI and Robotic Vision Research Group develops trustworthy perception, learning, and reasoning capabilities for autonomous robots. Our work focuses on systems that can operate safely outside controlled laboratory settings, especially when environments are uncertain, dynamic, or only partially observed. The group sits within the Australian Institute for Machine Learning (AIML), Adelaide University, and connects robotics, computer vision, machine learning, and embodied AI. We aim to build a coherent research pipeline from fundamental methods through to deployed robotic systems, datasets, benchmarks, and real-world impact.
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="./img/robot1.jpg" alt="robot 1" width="49%"/>
-  <img src="./img/robot2.jpg" alt="robot 2" width="49%"/>
+<div style="display: flex; gap: 2%; justify-content: center; margin: 20px 0;">
+  <img src="./img/robot1.jpg" alt="robot 1" style="width: 49%; height: auto;"/>
+  <img src="./img/robot2.jpg" alt="robot 2" style="width: 49%; height: auto;"/>
 </div>
 
 * * *
