@@ -23,6 +23,20 @@ The Embodied AI and Robotic Vision Research Group develops perception, learning,
 .
 
 * * *
+# Research Themes
+## Reliable Deep Learning for Robotics
+We build perception systems that remain trustworthy beyond closed-set accuracy benchmarks. This includes out-of-distribution and unknown-class detection, open-world object detection, uncertainty estimation for identifying open-set errors, and run-time monitoring of model performance during deployment. The goal is robotic systems that recognise novel objects, flag when inputs violate their training assumptions, and fail safely in unstructured real-world conditions.
+
+## Embodied AI and Robotic Vision
+We study perception that is active and grounded in an agent acting in the world rather than passive image analysis. This includes embodied object detection with spatial feature memory, embodied domain adaptation for detectors deployed on robots, physically grounded 3D world models for prediction and control, robot manipulation (generalist manipulation policies, data-driven dexterous manipulation), and multimodal perception under degraded or missing sensing.
+
+## Open-World Navigation, Mapping, and Localisation
+We develop representations and methods that let robots navigate environments they were not explicitly mapped for. This includes topological maps for open-world visual navigation, traversability-aware navigation to topological goals, fine-grained cross-view geo-localisation between ground and satellite imagery, scene change detection with visual foundation models, and vision-and-language navigation that knows when to ask for missing information.
+
+## Adaptation, Generalisation, and Foundation Models for Robotics
+We work on closing the gap between training and deployment, and on bringing large pretrained models into embodied settings. This includes source-free and online domain adaptation for object detection, predicting and handling class-distribution shift, foundation models for goal-oriented reinforcement learning and exploration, generalist robot manipulation policies and effective strategies for tuning them, and 3D large multimodal models for scene understanding, moving toward vision–language–action systems.
+
+* * *
 # Publications
 
 ## Recent Publications
@@ -30,26 +44,6 @@ The Embodied AI and Robotic Vision Research Group develops perception, learning,
 .
 
 Full Publication List [Google Scholar link.]
-
-* * *
-
-# Research Themes
-
-## Reliable Deep Learning for Robotics
-
-.
-
-## Embodied AI and Robotic Vision
-
-.
-
-## Open-World Navigation, Mapping, and Localisation
-
-.
-
-## Adaptation, Generalisation, and Foundation Models for Robotics
-
-.
 
 * * *
 # People
