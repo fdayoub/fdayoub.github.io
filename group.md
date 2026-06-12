@@ -20,7 +20,12 @@ The Embodied AI and Robotic Vision Research Group develops perception, learning,
 * * *
 # News
 
-.
+* **2026** — *KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis* (Hosseinzadeh, Wong, Dayoub) accepted at **ICRA 2026**.
+* **2026** — *SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection* (Lin, Chin, Garg, Dayoub) accepted at **WACV 2026**.
+* **2025** — Three papers accepted at **ICRA 2025**: *TANGO* (traversability-aware navigation), *Robust Scene Change Detection* with visual foundation models, *Effective Tuning Strategies for Generalist Robot Manipulation Policies*.
+* **2025** — *3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer* accepted at **CVPR 2025**.
+* **2025** — Two papers at **WACV 2025**: *To Ask or Not to Ask?* (vision-and-language navigation) and *Enhancing Embodied Object Detection with Spatial Feature Memory*.
+* **2025** — *Embodied Domain Adaptation for Object Detection* accepted at **IROS 2025**.
 
 * * *
 # Research Themes
