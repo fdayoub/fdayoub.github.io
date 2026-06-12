@@ -18,6 +18,21 @@ The Embodied AI and Robotic Vision Research Group develops trustworthy perceptio
 </div>
 
 * * *
+# News
+
+.
+
+* * *
+# Publications
+
+## Recent Publications
+
+.
+
+Full Publication List [Google Scholar link.]
+
+* * *
+
 # Research Themes
 
 ## Reliable Deep Learning for Robotics
@@ -113,11 +128,6 @@ Interested applicants should send:
 .
 
 ## Industry Partners
-
-.
-
-* * *
-# News
 
 .
 
