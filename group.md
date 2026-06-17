@@ -65,6 +65,7 @@ We work on closing the gap between training and deployment, and on bringing larg
 ## Alumni
 ### Students
 * Xiangyu Shi
+  
 ### Postdocs / Research Fellows
 * Dr Sourav Garg
 * Dr Jiajun Deng
