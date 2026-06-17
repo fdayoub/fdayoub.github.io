@@ -63,7 +63,12 @@ We work on closing the gap between training and deployment, and on bringing larg
 * Wenze Wang
 
 ## Alumni
-* Dr Xiangyu Shi
+### Students
+* Xiangyu Shi
+### Postdocs / Research Fellows
+* Dr Sourav Garg
+* Dr Jiajun Deng
+* Dr Savitha Sam Abraham
 
 # Join Us
 
