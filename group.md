@@ -49,7 +49,7 @@ We work on closing the gap between training and deployment, and on bringing larg
 ## Postdocs / Research Fellows
 
 * Dr Mehdi Hosseinzadeh
-* Dr Bo Miao 
+* Dr [Bo Miao](https://bomiao.netlify.app/)
 
 ## PhD / MPhil Students
 * One il Chiang
