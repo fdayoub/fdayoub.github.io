@@ -57,7 +57,7 @@ We work on closing the gap between training and deployment, and on bringing larg
 * Dustin Wyly Craggs
 * Sebastian Luke McCormack Cocks
 * King Hang Wong
-* Chad Lin 
+* [Chad Lin](https://chadlin9596.github.io/)
 
 ## Masters / Honours Students
 * Wenze Wang
