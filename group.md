@@ -43,39 +43,31 @@ We work on closing the gap between training and deployment, and on bringing larg
 
 * * *
 # People
-
-.
-
 ## Group Lead
-.
+* A/Prof Feras Dayoub
 
 ## Postdocs / Research Fellows
 
-.
+* Dr Mehdi Hosseinzadeh
+* Dr Bo Miao 
 
-## PhD Students
-
-.
+## PhD / MPhil Students
+* One il Chiang
+* Lishan Yang
+* Dustin Wyly Craggs
+* Sebastian Luke McCormack Cocks
+* King Hang Wong
+* Chad Lin 
 
 ## Masters / Honours Students
-
-.
+* Wenze Wang
 
 ## Alumni
+* Dr Xiangyu Shi
 
-.
-
-## Visitors and Collaborators
-
-.
-
-* * *
 # Join Us
 
 ## Prospective PhD Students
-
-.
-
 Relevant backgrounds include:
 
 * Robotics
@@ -92,25 +84,3 @@ Interested applicants should send:
 * Research statement
 * Example paper, thesis, or project
 * GitHub or portfolio, where relevant
-
-## Postdocs and Visitors
-
-.
-
-## Honours / Masters Students
-
-.
-
-## Industry Partners
-
-.
-
-* * *
-# Collaborations and Partners
-
-.
-
-* * *
-# Contact
-
-.
