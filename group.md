@@ -19,6 +19,7 @@ The Embodied AI and Robotic Vision Research Group develops perception, learning,
 
 * * *
 # News
+* **2026** — *[Panelist for the Agentic Robotics panel discussion "Reason, Plan, Act" workshop RSS 2026](https://sites.google.com/monash.edu/reasonplanactahands-ontutorial)*
 * **2026** — *[Beyond Implicit Force: Evaluating Explicit Force-Torque Proxies in Action Chunking with Transformers](https://arxiv.org/abs/2607.14578)* (Wong, Liu, Dayoub) accepted at **IROS 2026**
 * **2026** — *[KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis](https://m80hz.github.io/kite/)* (Hosseinzadeh, Wong, Dayoub) accepted at **ICRA 2026**.
 * **2026** — *[SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection](https://github.com/ChadLin9596/ScenePoint-ETK)* (Lin, Chin, Garg, Dayoub) accepted at **WACV 2026**.
