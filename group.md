@@ -45,7 +45,7 @@ We work on closing the gap between training and deployment, and on bringing larg
 * * *
 # People
 ## Group Lead
-* A/Prof Feras Dayoub
+* [A/Prof Feras Dayoub](https://ferasdayoub.com/)
 
 ## Postdocs / Research Fellows
 
