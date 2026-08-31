@@ -104,11 +104,17 @@ Applicants should have a strong background in one or more of the following areas
 - Multimodal or thermal perception
 - Edge AI and efficient neural networks
 
-Strong programming skills and experience with deep-learning frameworks are highly desirable.
+Strong programming skills are highly desirable.
 
 ### Scholarship and Eligibility
 
 This project is offered through Adelaide University’s **2026 Signature Research Theme Scholarship Round**.
+
+Candidates may submit an Expression of Interest before completing their current degree, subject to the following requirements:
+
+- Offshore applicants must complete their qualifying degree requirements by **28 February 2027**.
+- Applicants located in Australia must complete their qualifying degree requirements by **31 March 2027**.
+- Onshore Master by Research applicants must submit their thesis by **31 March 2027**.
 
 The opportunity is open to domestic and international applicants, subject to the project-specific eligibility requirements detailed in the official listing.
 
