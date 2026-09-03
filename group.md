@@ -19,14 +19,18 @@ The Embodied AI and Robotic Vision Research Group develops perception, learning,
 
 * * *
 # News
-* **2026** — *[Panelist for the Agentic Robotics panel discussion "Reason, Plan, Act" workshop RSS 2026](https://sites.google.com/monash.edu/reasonplanactahands-ontutorial)*
-* **2026** — *[Beyond Implicit Force: Evaluating Explicit Force-Torque Proxies in Action Chunking with Transformers](https://arxiv.org/abs/2607.14578)* (Wong, Liu, Dayoub) accepted at **IROS 2026**
-* **2026** — *[KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis](https://m80hz.github.io/kite/)* (Hosseinzadeh, Wong, Dayoub) accepted at **ICRA 2026**.
-* **2026** — *[SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection](https://github.com/ChadLin9596/ScenePoint-ETK)* (Lin, Chin, Garg, Dayoub) accepted at **WACV 2026**.
-* **2025** — Three papers accepted at **ICRA 2025**: *TANGO* (traversability-aware navigation), *[Robust Scene Change Detection](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)* with visual foundation models, *Effective Tuning Strategies for Generalist Robot Manipulation Policies*.
-* **2025** — *[3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer](https://github.com/djiajunustc/3D-LLaVA)* accepted at **CVPR 2025**.
-* **2025** — Two papers at **WACV 2025**: *To Ask or Not to Ask?* (vision-and-language navigation) and *Enhancing Embodied Object Detection with Spatial Feature Memory*.
-* **2025** — *Embodied Domain Adaptation for Object Detection* accepted at **IROS 2025**.
+**2026**
+* [Funded PhD Opportunity available](https://ferasdayoub.com/group/#:~:text=Savitha%20Sam%20Abraham-,Funded%20PhD%20Opportunity,-Self%2DAware%20RGB)
+* *[Panelist for the Agentic Robotics panel discussion "Reason, Plan, Act" workshop RSS 2026](https://sites.google.com/monash.edu/reasonplanactahands-ontutorial)*
+* *[Beyond Implicit Force: Evaluating Explicit Force-Torque Proxies in Action Chunking with Transformers](https://arxiv.org/abs/2607.14578)* (Wong, Liu, Dayoub) accepted at **IROS 2026**
+* *[KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis](https://m80hz.github.io/kite/)* (Hosseinzadeh, Wong, Dayoub) accepted at **ICRA 2026**.
+* *[SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection](https://github.com/ChadLin9596/ScenePoint-ETK)* (Lin, Chin, Garg, Dayoub) accepted at **WACV 2026**.
+
+**2025**
+* Three papers accepted at **ICRA 2025**: *TANGO* (traversability-aware navigation), *[Robust Scene Change Detection](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)* with visual foundation models, *Effective Tuning Strategies for Generalist Robot Manipulation Policies*.
+* *[3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer](https://github.com/djiajunustc/3D-LLaVA)* accepted at **CVPR 2025**.
+* Two papers at **WACV 2025**: *To Ask or Not to Ask?* (vision-and-language navigation) and *Enhancing Embodied Object Detection with Spatial Feature Memory*.
+* *Embodied Domain Adaptation for Object Detection* accepted at **IROS 2025**.
 
 * * *
 # Research Themes
