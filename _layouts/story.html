@@ -1,0 +1,98 @@
+---
+layout: default
+---
+
+<style>
+  .story {
+    --story-ink: #302d29;
+    --story-muted: #766f65;
+    color: var(--story-ink);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 18px;
+    line-height: 1.82;
+    margin: 0 auto;
+    max-width: 680px;
+    padding: 1.75rem 0 3rem;
+  }
+
+  .story__header {
+    border-bottom: 1px solid #ded9d1;
+    margin-bottom: 2.4rem;
+    padding-bottom: 1.8rem;
+    text-align: center;
+  }
+
+  .story__eyebrow {
+    color: var(--story-muted);
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 0.68rem;
+    font-weight: bold;
+    letter-spacing: 0.18em;
+    margin-bottom: 0.65rem;
+    text-transform: uppercase;
+  }
+
+  .story__header h1 {
+    color: var(--story-ink);
+    font-size: clamp(2.25rem, 7vw, 3.4rem);
+    font-weight: normal;
+    letter-spacing: -0.035em;
+    line-height: 1.1;
+    margin: 0;
+  }
+
+  .story__dek {
+    color: var(--story-muted);
+    font-size: 1rem;
+    font-style: italic;
+    margin: 0.8rem 0 0;
+  }
+
+  .story__body p {
+    margin: 0 0 1.35em;
+  }
+
+  .story__body > p:first-child::first-letter {
+    color: #a9432f;
+    float: left;
+    font-size: 4.15rem;
+    line-height: 0.8;
+    padding: 0.16em 0.09em 0 0;
+  }
+
+  .story__body hr {
+    border: 0;
+    color: var(--story-muted);
+    margin: 2.8rem 0;
+    text-align: center;
+  }
+
+  .story__body hr::after {
+    content: "· · ·";
+    letter-spacing: 0.5em;
+  }
+
+  @media (max-width: 560px) {
+    .story {
+      font-size: 17px;
+      line-height: 1.72;
+      padding-top: 0.75rem;
+    }
+
+    .story__header {
+      margin-bottom: 2rem;
+    }
+  }
+</style>
+
+<article class="story">
+  <header class="story__header">
+    <span class="story__eyebrow">Short fiction</span>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="story__dek">{{ page.subtitle }}</p>{% endif %}
+  </header>
+  <div class="story__body">
+    {{ content }}
+  </div>
+</article>
