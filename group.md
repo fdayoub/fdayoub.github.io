@@ -20,6 +20,7 @@ The Embodied AI and Robotic Vision Research Group develops perception, learning,
 * * *
 # News
 **2026**
+* [LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation](https://bo-miao.github.io/LangMap/) accepted at **NeurIPS 2026**
 * [Funded PhD Opportunity available](https://ferasdayoub.com/group/#:~:text=Savitha%20Sam%20Abraham-,Funded%20PhD%20Opportunity,-Self%2DAware%20RGB)
 * *[Panelist for the Agentic Robotics panel discussion "Reason, Plan, Act" workshop RSS 2026](https://sites.google.com/monash.edu/reasonplanactahands-ontutorial)*
 * *[Beyond Implicit Force: Evaluating Explicit Force-Torque Proxies in Action Chunking with Transformers](https://arxiv.org/abs/2607.14578)* (Wong, Liu, Dayoub) accepted at **IROS 2026**
