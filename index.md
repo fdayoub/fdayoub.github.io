@@ -97,7 +97,6 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 # Workshops and Summer Schools
 
 ### Conference workshops and challenges
-
 - **2025 · ICLR**, [7th Robot Learning Workshop: Towards Robots with Human-Level Abilities](https://www.robot-learning.ml/2025/).
 - **2021 · CVPR**, [Robotic Vision Scene Understanding Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2021.html), at the [Embodied AI Workshop](https://embodied-ai.org/cvpr2021/).
 - **2020 · IROS**, [Reliable Deployment of Machine Learning for Long-Term Autonomy](https://sites.google.com/view/icra2020ltaws).
@@ -109,13 +108,14 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 - **2018 · RSS**, [New Benchmarks, Metrics, and Competitions for Robotic Learning](https://sites.google.com/view/rss2018-robotic-learning/home).
 
 ### Summer schools
-
 - **2026** — [Robotic Vision Summer School](https://www.rvss.org.au/2026-organisers/).
 - **2025** — [Robotic Vision Summer School](https://www.rvss.org.au/2025-organisers/).
 - **2024** — [Robotic Vision Summer School](https://www.rvss.org.au/2024-organisers/).
 - **2023** — [Robotic Vision Summer School](https://www.rvss.org.au/2023-organisers/).
 - **2018** — Workshop, [The Great Escape, Robotic Vision Summer School](https://www.rvss.org.au/2018-workshop/).
+
 * * *
+
 # Editorial Roles
 
 ### Conferences
@@ -125,7 +125,9 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 ### Journals
 - **2018–2019** — Associate Editor, [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l/).
 - **2018** — Associate Editor, IEEE Robotics and Automation Letters special issue on [Precision Agricultural Robotics and Autonomous Farming Technologies](https://www.ieee-ras.org/publications/ra-l/special-issues/past-special-issues/precision-agricultural-robotics-and-autonomous-farming-technologies/).
+
 * * * 
+
 # My Research Themes
 
 ## Autonomous Robots Perception Systems Monitoring and Failure Detection
@@ -169,6 +171,7 @@ This research theme centres on employing Machine Learning methodologies for enha
 - [Multiple map hypotheses for planning and navigating in non-stationary environments](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=Lzs8CuEAAAAJ&citation_for_view=Lzs8CuEAAAAJ:CHSYGLWDkRkC)
 
 * * *
+
 # Teaching
 ### Adelaide University
 * 2026 - Present
