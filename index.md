@@ -66,31 +66,31 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 # Research Degree Supervision
 
 ### PhD completions
-1. **Jad Abou-Chakra** (2026) — QUT · Co-supervisor  
+1. **Jad Abou-Chakra** (2026) — Co-supervisor  
    [Realtime Structured and Visually Correctable Representations for Robotic Manipulation](https://eprints.qut.edu.au/263025/)
-2. **Nicolas Chapman** (2025) — QUT · Co-supervisor  
+2. **Nicolas Chapman** (2025) — Co-supervisor  
    [Adapting Vision-Language Models for Robotic Object Detection](https://eprints.qut.edu.au/261411/)
-3. **Dong Yuan** (2025) — QUT · Co-supervisor  
+3. **Dong Yuan** (2025) — Co-supervisor  
    [Ground-to-Aerial Cross-View Image Matching for Robot Localization](https://eprints.qut.edu.au/261196/)
-4. **Samuel Wilson** (2024) — QUT · Co-supervisor  
+4. **Samuel Wilson** (2024) — Co-supervisor  
    [Post-hoc Feature-based Out-of-Distribution Detection for Real-World Conditions](https://eprints.qut.edu.au/246678/)
-5. **Quazi Marufur Rahman** (2022) — QUT · Primary supervisor  
+5. **Quazi Marufur Rahman** (2022) — Primary supervisor  
    [Performance Monitoring of Deep Learning Vision Systems During Deployment](https://eprints.qut.edu.au/229733/)
-6. **Jesse Haviland** (2022) — QUT · Co-supervisor  
+6. **Jesse Haviland** (2022) — Co-supervisor  
    [Control Strategies for Reactive Manipulation](https://eprints.qut.edu.au/236551/)
-7. **Dimity Miller** (2021) — QUT · Primary supervisor  
+7. **Dimity Miller** (2021) — Primary supervisor  
    [Epistemic Uncertainty Estimation for Object Detection in Open-Set Conditions](https://eprints.qut.edu.au/213588/)
-8. **Olga Moskvyak** (2021) — QUT · Co-supervisor  
+8. **Olga Moskvyak** (2021) — Co-supervisor  
    [Learning from Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/)
-9. **David Hall** (2018) — QUT · Primary supervisor  
+9. **David Hall** (2018) — Primary supervisor  
    [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872/)
-10. **Ben Talbot** (2018) — QUT · Co-supervisor  
+10. **Ben Talbot** (2018) — Co-supervisor  
     [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191/)
     
 ### MPhil completions
-1. **Xiangyu Shi** (2025) — University of Adelaide · Primary supervisor  
+1. **Xiangyu Shi** (2025) — Primary supervisor  
    [Domain Adaptation Object Detection for Mobile Robots](https://digital.library.adelaide.edu.au/items/76220189-0e09-4962-830b-f8ba83d14f83)
-2. **Renjie Wu** (2024) — University of Adelaide · Co-supervisor  
+2. **Renjie Wu** (2024) — Co-supervisor  
    [Towards Pedestrian Safety Augmented Reality System](https://digital.library.adelaide.edu.au/items/29f5df7e-9b65-486c-81d0-76467d335171)
 
 * * * 
