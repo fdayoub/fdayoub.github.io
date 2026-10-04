@@ -114,6 +114,16 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 - **2023** — [Robotic Vision Summer School](https://www.rvss.org.au/2023-organisers/).
 - **2018** — Workshop, [The Great Escape, Robotic Vision Summer School](https://www.rvss.org.au/2018-workshop/).
 * * *
+# Editorial Roles
+
+### Conferences
+- **2025** — Associate Editor, [IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](https://2025.ieee-iros.org/).
+- **2023** — Associate Editor, [IEEE International Conference on Robotics and Automation (ICRA)](https://www.icra2023.org/conference-news).
+
+### Journals
+- **2018–2019** — Associate Editor, [IEEE Robotics and Automation Letters (RA-L)](https://www.ieee-ras.org/publications/ra-l/).
+- **2018** — Associate Editor, IEEE Robotics and Automation Letters special issue on [Precision Agricultural Robotics and Autonomous Farming Technologies](https://www.ieee-ras.org/publications/ra-l/special-issues/past-special-issues/precision-agricultural-robotics-and-autonomous-farming-technologies/).
+* * * 
 # My Research Themes
 
 ## Autonomous Robots Perception Systems Monitoring and Failure Detection
