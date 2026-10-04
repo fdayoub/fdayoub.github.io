@@ -65,7 +65,7 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 # PhD Supervision
 ### Completed supervisions (Doctorate)
 1. [Adapting Vision-Language Models for Robotic Object Detection](https://eprints.qut.edu.au/261411/) (2025)
-2. [Realtime Structured and Visually Correctable Representations for Robotic Manipulation] (2026)
+2. [Realtime Structured and Visually Correctable Representations for Robotic Manipulation](https://eprints.qut.edu.au/263025/) (2026)
 3. [Ground-to-Aerial Cross-View Image Matching for Robot Localization](https://eprints.qut.edu.au/261196/) (2025)
 4. [Post-hoc Feature-based Out-of-Distribution Detection for Real-World Conditions](https://eprints.qut.edu.au/246678/1/Samuel+Wilson+Thesis(2).pdf) (2024)
 5. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
