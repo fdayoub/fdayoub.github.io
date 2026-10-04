@@ -107,7 +107,9 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 - **2018 · ICRA**, [Long-Term Autonomy and Deployment of Intelligent Robots in the Real World](https://sites.google.com/view/icra2018ltaws).
 - **2018 · CVPR**, [Real-World Challenges and New Benchmarks for Deep Learning in Robotic Vision](https://sites.google.com/view/cvpr2018-robotic-vision/home).
 - **2018 · RSS**, [New Benchmarks, Metrics, and Competitions for Robotic Learning](https://sites.google.com/view/rss2018-robotic-learning/home).
+
 ### Summer schools
+
 - **2026** — [Robotic Vision Summer School](https://www.rvss.org.au/2026-organisers/).
 - **2025** — [Robotic Vision Summer School](https://www.rvss.org.au/2025-organisers/).
 - **2024** — [Robotic Vision Summer School](https://www.rvss.org.au/2024-organisers/).
