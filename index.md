@@ -94,7 +94,26 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
    [Towards Pedestrian Safety Augmented Reality System](https://digital.library.adelaide.edu.au/items/29f5df7e-9b65-486c-81d0-76467d335171)
 
 * * * 
+# Workshops and Summer Schools
 
+### Conference workshops and challenges
+
+- **2025 · ICLR**, [7th Robot Learning Workshop: Towards Robots with Human-Level Abilities](https://www.robot-learning.ml/2025/).
+- **2021 · CVPR**, [Robotic Vision Scene Understanding Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2021.html), at the [Embodied AI Workshop](https://embodied-ai.org/cvpr2021/).
+- **2020 · IROS**, [Reliable Deployment of Machine Learning for Long-Term Autonomy](https://sites.google.com/view/icra2020ltaws).
+- **2020 · ICRA**, [Scene Understanding and Semantic SLAM: Progress, Applications, and Limitations](https://nikosuenderhauf.github.io/roboticvisionchallenges/icra2020.html).
+- **2019 · CVPR**, [The Robotic Vision Probabilistic Object Detection Challenge](https://nikosuenderhauf.github.io/roboticvisionchallenges/cvpr2019.html).
+- **2019 · IROS**, [The Importance of Uncertainty in Deep Learning for Robotics](https://nikosuenderhauf.github.io/roboticvisionchallenges/iros2019.html).
+- **2018 · ICRA**, [Long-Term Autonomy and Deployment of Intelligent Robots in the Real World](https://sites.google.com/view/icra2018ltaws).
+- **2018 · CVPR**, [Real-World Challenges and New Benchmarks for Deep Learning in Robotic Vision](https://sites.google.com/view/cvpr2018-robotic-vision/home).
+- **2018 · RSS**, [New Benchmarks, Metrics, and Competitions for Robotic Learning](https://sites.google.com/view/rss2018-robotic-learning/home).
+### Summer schools
+- **2026** — [Robotic Vision Summer School](https://www.rvss.org.au/2026-organisers/).
+- **2025** — [Robotic Vision Summer School](https://www.rvss.org.au/2025-organisers/).
+- **2024** — [Robotic Vision Summer School](https://www.rvss.org.au/2024-organisers/).
+- **2023** — [Robotic Vision Summer School](https://www.rvss.org.au/2023-organisers/).
+- **2018** — Workshop, [The Great Escape, Robotic Vision Summer School](https://www.rvss.org.au/2018-workshop/).
+* * *
 # My Research Themes
 
 ## Autonomous Robots Perception Systems Monitoring and Failure Detection
