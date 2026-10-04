@@ -49,31 +49,49 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 * * *
 
 # Awards and Award Finalist
-* 2020    Australian Center for Robotic Vision award for best-profile raising event in robotics and CV communities.
-* 2019    Australian Center for Robotic Vision award for Best Team Project.
-* 2019    Australian Center for Robotic Vision award for Best Centre Citizen.
+* 2024    Best Paper Honourable Mention, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024).
+* 2020    Australian Centre for Robotic Vision award for best-profile raising event in robotics and CV communities.
+* 2019    Australian Centre for Robotic Vision award for Best Team Project.
+* 2019    Australian Centre for Robotic Vision award for Best Centre Citizen.
 * 2019    Certificate of appreciation in recognition of outstanding contribution to the 2019 QUT STEM Camp.
-* 2018    Australian Center for Robotic Vision award for best-profile raising event in robotics and CV communities.
+* 2018    Australian Centre for Robotic Vision award for best-profile raising event in robotics and CV communities.
 * 2017    Finalist for Best Automation Paper Award, IEEE International Conference on Robotics and Automation (ICRA).
-* 2016 Google X challenge, Popular vote award, RangerBot project.
-* 2016 Finalist for the Australian Museum Eureka Prizes, Environmental Research.
+* 2016    Google X challenge, Popular vote award, RangerBot project.
+* 2016    Finalist for the Australian Museum Eureka Prizes, Environmental Research.
 * 2016    Award for being a Magnet for the School of Electrical Engineering and Computer Science QUT.
-* 2015    Vice-chancellor’s Award, Queensland University of Technology.
+* 2015    Vice-Chancellor’s Award, Queensland University of Technology.
 
 * * *
 
-# PhD Supervision
-### Completed supervisions (Doctorate)
-1. [Adapting Vision-Language Models for Robotic Object Detection](https://eprints.qut.edu.au/261411/) (2025)
-2. [Realtime Structured and Visually Correctable Representations for Robotic Manipulation](https://eprints.qut.edu.au/263025/) (2026)
-3. [Ground-to-Aerial Cross-View Image Matching for Robot Localization](https://eprints.qut.edu.au/261196/) (2025)
-4. [Post-hoc Feature-based Out-of-Distribution Detection for Real-World Conditions](https://eprints.qut.edu.au/246678/1/Samuel+Wilson+Thesis(2).pdf) (2024)
-5. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
-6. [Learning From Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/) (2021)
-7. [Performance monitoring of deep learning vision systems during deployment](https://eprints.qut.edu.au/229733/) (2022)
-8. [Control Strategies for Reactive Manipulation](https://eprints.qut.edu.au/236551/) (2022)
-9. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
-10. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
+# Research Degree Supervision
+
+### PhD completions
+1. **Jad Abou-Chakra** (2026) — QUT · Co-supervisor  
+   [Realtime Structured and Visually Correctable Representations for Robotic Manipulation](https://eprints.qut.edu.au/263025/)
+2. **Nicolas Chapman** (2025) — QUT · Co-supervisor  
+   [Adapting Vision-Language Models for Robotic Object Detection](https://eprints.qut.edu.au/261411/)
+3. **Dong Yuan** (2025) — QUT · Co-supervisor  
+   [Ground-to-Aerial Cross-View Image Matching for Robot Localization](https://eprints.qut.edu.au/261196/)
+4. **Samuel Wilson** (2024) — QUT · Co-supervisor  
+   [Post-hoc Feature-based Out-of-Distribution Detection for Real-World Conditions](https://eprints.qut.edu.au/246678/)
+5. **Quazi Marufur Rahman** (2022) — QUT · Primary supervisor  
+   [Performance Monitoring of Deep Learning Vision Systems During Deployment](https://eprints.qut.edu.au/229733/)
+6. **Jesse Haviland** (2022) — QUT · Co-supervisor  
+   [Control Strategies for Reactive Manipulation](https://eprints.qut.edu.au/236551/)
+7. **Dimity Miller** (2021) — QUT · Primary supervisor  
+   [Epistemic Uncertainty Estimation for Object Detection in Open-Set Conditions](https://eprints.qut.edu.au/213588/)
+8. **Olga Moskvyak** (2021) — QUT · Co-supervisor  
+   [Learning from Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/)
+9. **David Hall** (2018) — QUT · Primary supervisor  
+   [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872/)
+10. **Ben Talbot** (2018) — QUT · Co-supervisor  
+    [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191/)
+    
+### MPhil completions
+1. **Xiangyu Shi** (2025) — University of Adelaide · Primary supervisor  
+   [Domain Adaptation Object Detection for Mobile Robots](https://digital.library.adelaide.edu.au/items/76220189-0e09-4962-830b-f8ba83d14f83)
+2. **Renjie Wu** (2024) — University of Adelaide · Co-supervisor  
+   [Towards Pedestrian Safety Augmented Reality System](https://digital.library.adelaide.edu.au/items/29f5df7e-9b65-486c-81d0-76467d335171)
 
 * * * 
 
