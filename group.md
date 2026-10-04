@@ -58,19 +58,17 @@ We work on closing the gap between training and deployment, and on bringing larg
 * Dr [Bo Miao](https://bomiao.netlify.app/)
 
 ## PhD / MPhil Students
-* One il Chiang
-* Lishan Yang
-* Dustin Wyly Craggs
-* Sebastian Luke McCormack Cocks
-* King Hang Wong
-* [Chad Lin](https://chadlin9596.github.io/)
-
-## Masters / Honours Students
-* Wenze Wang
+* One il Chiang - PhD Student
+* Lishan Yang - PhD Student
+* Dustin Wyly Craggs - MPhil Student 
+* Sebastian Luke McCormack Cocks - MPhil Student
+* King Hang Wong - PhD Student
+* [Chad Lin](https://chadlin9596.github.io/) - PhD Student
+* Wenze Wang - PhD Student
 
 ## Alumni
 ### Students
-* Xiangyu Shi
+* Xiangyu Shi - MPhil Thesis
   
 ### Postdocs / Research Fellows
 * Dr Sourav Garg
