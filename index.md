@@ -63,7 +63,7 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 
 * * *
 
-# Research Degree Supervision
+# Research Degree Completions
 
 ### PhD completions
 1. **Jad Abou-Chakra** (2026) — Co-supervisor  
