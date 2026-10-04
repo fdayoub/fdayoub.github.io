@@ -71,7 +71,7 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 5. [Epistemic uncertainty estimation for object detection in open-set conditions](https://eprints.qut.edu.au/213588/) (2021)
 6. [Learning From Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/) (2021)
 7. [Performance monitoring of deep learning vision systems during deployment](https://eprints.qut.edu.au/229733/) (2022)
-8. [Control Strategies for Reactive Manipulation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IIhSLvgAAAAJ&sortby=pubdate&citation_for_view=IIhSLvgAAAAJ:W7OEmFMy1HYC) (2022)
+8. [Control Strategies for Reactive Manipulation](https://eprints.qut.edu.au/236551/) (2022)
 9. [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872) (2018)
 10. [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191) (2018)
 
