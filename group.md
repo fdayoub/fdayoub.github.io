@@ -21,7 +21,7 @@ The Embodied AI and Robotic Vision Research Group develops perception, learning,
 # News
 **2026**
 * [LangMap: A Human-Verified Benchmark for Hierarchical Open-Vocabulary Goal Navigation](https://bo-miao.github.io/LangMap/) accepted at **NeurIPS 2026**
-* [Funded PhD Opportunity available](https://ferasdayoub.com/group/#:~:text=Savitha%20Sam%20Abraham-,Funded%20PhD%20Opportunity,-Self%2DAware%20RGB) [EOI closed on the 30th of Sep 2026]
+* Funded PhD Opportunity available [EOI closed on the 30th of Sep 2026]
 * *[Panelist for the Agentic Robotics panel discussion "Reason, Plan, Act" workshop RSS 2026](https://sites.google.com/monash.edu/reasonplanactahands-ontutorial)*
 * *[Beyond Implicit Force: Evaluating Explicit Force-Torque Proxies in Action Chunking with Transformers](https://arxiv.org/abs/2607.14578)* (Wong, Liu, Dayoub) accepted at **IROS 2026**
 * *[KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis](https://m80hz.github.io/kite/)* (Hosseinzadeh, Wong, Dayoub) accepted at **ICRA 2026**.
@@ -76,60 +76,6 @@ We work on closing the gap between training and deployment, and on bringing larg
 * Dr Savitha Sam Abraham
 
 ---
-
-# Funded PhD Opportunity
-
-## Self-Aware RGB–Thermal Tracking with Unknown-Object Discovery for Edge-Deployed UAVs
-
-We are seeking an outstanding PhD candidate to join the **Embodied AI and Robotic Vision Research Group** at the Australian Institute for Machine Learning, Adelaide University.
-
-Autonomous drones and robots must track important targets reliably under changing environmental conditions, recognise when their predictions may be wrong, and detect unexpected objects. This project will develop a compact multimodal vision system combining RGB and thermal sensing for robust, trustworthy perception on edge-deployed UAVs.
-
-### Research Focus
-
-The project will investigate:
-
-- Robust target tracking in darkness, glare, haze, and thermal crossover
-- Confidence and uncertainty estimation for detecting tracking failures
-- Unknown-object discovery in open-world environments
-- Adaptive fusion of RGB and thermal information
-- Efficient real-time operation on resource-constrained robotic platforms
-
-The research sits at the intersection of **computer vision, machine learning, robotics, multimodal perception, and edge AI**. 
-
-### Candidate Background
-
-Applicants should have a strong background in one or more of the following areas:
-
-- Computer vision
-- Machine learning and deep learning
-- Robotics or autonomous systems
-- Multimodal or thermal perception
-- Edge AI and efficient neural networks
-
-Strong programming skills are highly desirable.
-
-### Scholarship and Eligibility
-
-This project is offered through Adelaide University’s **2026 Signature Research Theme Scholarship Round**.
-
-Candidates may submit an Expression of Interest before completing their current degree, subject to the following requirements:
-
-- Offshore applicants must complete their qualifying degree requirements by **28 February 2027**.
-- Applicants located in Australia must complete their qualifying degree requirements by **31 March 2027**.
-- Onshore Master by Research applicants must submit their thesis by **31 March 2027**.
-
-The opportunity is open to domestic and international applicants, subject to the project-specific eligibility requirements detailed in the official listing.
-
-- **Project code:** SRTSR0161
-- **Expression of Interest deadline:** 30 September 2026
-
-### How to Apply
-
-[Submit an Expression of Interest directly](https://app.smartsheet.au/b/form/019eedeef91978fdbc2b67718479eac6?project_id=SRTSR0161)
-
-To view the official project listing, visit the [Adelaide University research-project catalogue](https://adelaide.edu.au/research/research-degrees/research-projects/) and search for **SRTSR0161**.
-
 
 # Join Us
 
