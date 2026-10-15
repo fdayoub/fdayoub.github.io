@@ -49,6 +49,7 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
 * * *
 
 # Awards and Award Finalist
+* 2026    Most Influential Paper Recognition, Sensors 25th Anniversary. DeepFruits: A Fruit Detection System Using Deep Neural Networks (2016)
 * 2024    Best Paper Honourable Mention, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024).
 * 2020    Australian Centre for Robotic Vision award for best-profile raising event in robotics and CV communities.
 * 2019    Australian Centre for Robotic Vision award for Best Team Project.
