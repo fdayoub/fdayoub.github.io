@@ -91,8 +91,8 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
     [Integrating Symbolic Spatial Information in Robot Navigation](https://eprints.qut.edu.au/121191/)
     
 ### MPhil completions
-1. **Dustin Craggs** (2026) — Primary supervisor
-   Object-centric topological visual navigation. (Academic requirements completed; formal award pending.)
+1. **Dustin Craggs** (2026) — Primary supervisor\
+   Object-centric topological visual navigation. _(Academic requirements completed; formal award pending.)_
 3. **Xiangyu Shi** (2025) — Primary supervisor  
    [Domain Adaptation Object Detection for Mobile Robots](https://digital.library.adelaide.edu.au/items/76220189-0e09-4962-830b-f8ba83d14f83)
 4. **Renjie Wu** (2024) — Co-supervisor  
