@@ -83,7 +83,7 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
    [Epistemic Uncertainty Estimation for Object Detection in Open-Set Conditions](https://eprints.qut.edu.au/213588/)
 8. **Olga Moskvyak** (2021) — Co-supervisor  
    [Learning from Limited Annotated Data for Re-Identification Problem](https://eprints.qut.edu.au/226866/)
-9. **Ahmed Abbas** (2021) — Co-supervisor
+9. **Ahmed Abbas** (2021) — Co-supervisor\
    [Robots to Assist People During Assembly Tasks](https://eprints.qut.edu.au/207935/)
 10. **David Hall** (2018) — Primary supervisor  
    [A Rapidly Deployable Approach for Automated Visual Weed Classification without Prior Species Knowledge](https://eprints.qut.edu.au/122872/)
@@ -92,7 +92,7 @@ Welcome to my page. I am an Associate Professor, researcher, and educator in aut
     
 ### MPhil completions
 1. **Dustin Craggs** (2026) — Primary supervisor\
-   Object-centric topological visual navigation. _(Academic requirements completed; formal award pending.)_
+   Object-centric topological visual navigation.
 3. **Xiangyu Shi** (2025) — Primary supervisor  
    [Domain Adaptation Object Detection for Mobile Robots](https://digital.library.adelaide.edu.au/items/76220189-0e09-4962-830b-f8ba83d14f83)
 4. **Renjie Wu** (2024) — Co-supervisor  
